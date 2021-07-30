@@ -54,7 +54,7 @@ Larger Tier-1 banks are not yet partnering with UPSTART as they are contemplatin
 
 UPSTART has recently started applying its AI methodology to major markets like Auto, Home, and Credit Cards. UPSTART originated 10.8 Billion loans and 71% of these loans were fully automated. 
 
-![pic4](https://github.com/yasbhatti1/hw_1/blob/db55f4391a1b8ffa5e8ac94462e1d483a4801b6b/images/Screen4.jpg)
+![pic4](https://github.com/yasbhatti1/hw_1/blob/db55f4391a1b8ffa5e8ac94462e1d483a4801b6b/images/Screen3.jpg)
  (Upstart (about), 2021)
 
 ![pic0](images/screen13.png)
@@ -77,16 +77,16 @@ Python, Java Scripts, Groovy, SQL, Bash, Kubernets, ECS, Jenkins, Looker, Tablea
 
 Upstart operates a cloud based AI Lending platform. Some of the UPSTART key competitors are SOFI, Lending Club, Float, Lending Home, Earnest, Loan Depot, Lexin Fintech, AMTD International, Blucora, and oportun Financial. In Q1 2021, UPSART revenue grew 90% Y/Y to $121.3 millions with net income of $10.1 millions up 620% from previous year. Contribution profit went up 117% to $55.8 millions. Operation expenses reached $105.8 millions up 66% from previous year. Following are the current UPSTART holdings, inc. financial statements (Upstart(about), 2021)
 
-![pic8](images/screen2.png)
+![pic8](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen2.png)
  (Upstart (about), 2021)
 
-![pic9](images/screen6.png)
+![pic9](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen6.png)
  (Upstart (about), 2021)
 
-![pic10](images/screen5.png)
+![pic10](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen5.png)
  (Upstart (about), 2021)
 
-![pic11](images/screen1.png)
+![pic11](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen1.png)
  (Upstart (about), 2021)
 
 Here is the forecast outlook for fiscal year 2021.
@@ -98,7 +98,7 @@ Here is the forecast outlook for fiscal year 2021.
 
 Upstart leverages and carefully tracks core business metrics like Transaction Volume to Loan Conversion Rate, and Transaction Volume to Dollar amounts. Here are some of the core metrics UPSTART uses:
 
-![pic13](images/screen4.png)
+![pic13](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen4.png)
  (Upstart (about), 2021)
 
 ![pic6](images/screen19.png)
