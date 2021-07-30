@@ -77,16 +77,16 @@ Python, Java Scripts, Groovy, SQL, Bash, Kubernets, ECS, Jenkins, Looker, Tablea
 
 Upstart operates a cloud based AI Lending platform. Some of the UPSTART key competitors are SOFI, Lending Club, Float, Lending Home, Earnest, Loan Depot, Lexin Fintech, AMTD International, Blucora, and oportun Financial. In Q1 2021, UPSART revenue grew 90% Y/Y to $121.3 millions with net income of $10.1 millions up 620% from previous year. Contribution profit went up 117% to $55.8 millions. Operation expenses reached $105.8 millions up 66% from previous year. Following are the current UPSTART holdings, inc. financial statements (Upstart(about), 2021)
 
-![pic8](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen2.png)
+![pic8](https://github.com/yasbhatti1/hw_1/blob/e20defc184c7c0a78a5418cd6509c4013c64dbbc/images/Screen2.png)
  (Upstart (about), 2021)
 
-![pic9](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen6.png)
+![pic9](https://github.com/yasbhatti1/hw_1/blob/e20defc184c7c0a78a5418cd6509c4013c64dbbc/images/Screen6.png)
  (Upstart (about), 2021)
 
-![pic10](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen5.png)
+![pic10](https://github.com/yasbhatti1/hw_1/blob/e20defc184c7c0a78a5418cd6509c4013c64dbbc/images/Screen5.png)
  (Upstart (about), 2021)
 
-![pic11](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen1.png)
+![pic11](https://github.com/yasbhatti1/hw_1/blob/e20defc184c7c0a78a5418cd6509c4013c64dbbc/images/screen11.png)
  (Upstart (about), 2021)
 
 Here is the forecast outlook for fiscal year 2021.
@@ -98,7 +98,7 @@ Here is the forecast outlook for fiscal year 2021.
 
 Upstart leverages and carefully tracks core business metrics like Transaction Volume to Loan Conversion Rate, and Transaction Volume to Dollar amounts. Here are some of the core metrics UPSTART uses:
 
-![pic13](https://github.com/yasbhatti1/hw_1/blob/4606855fa1acf80f6b14e3bfbf84ab7d02df88eb/images/screen4.png)
+![pic13](https://github.com/yasbhatti1/hw_1/blob/e20defc184c7c0a78a5418cd6509c4013c64dbbc/images/Screen4.jpg)
  (Upstart (about), 2021)
 
 ![pic6](images/screen19.png)
