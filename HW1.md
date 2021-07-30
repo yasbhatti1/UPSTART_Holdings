@@ -3,9 +3,9 @@
      
 
 Here is a common scenario for millennials. John Doe is 22 years old, and is attending an IVY league school. He makes a six figure salary working for a hedge fund company. He applies for a $10,000 loan at a traditional bank. Bank rejects his loan on the basis of "lack of credit history". He tries another bank, and this time gets approved but with an extremely high APR - over 35%. Well, the aforementioned scenario is a true anecdote of a budding entrepreneur named Paul Gu. Along with Dave Girourd and Anna M. Counsel, co-founded a Fintech company called UPSTART Holdings, Inc. If Paul Gu have applied his loan through UPSTART, he would have been approved in seconds with a fixed interest rate between 6.5% and 22%. UPSTART CEO, Dave Girourd, argues: 
-*   that there is a "misallocation of capital in our economy". Large companies spend lot of money to recruit and hire college graduates, yet given their lack of traditional credit history, "the graduate themselves couldn't raise $30,000 if their life depended on it" (Ha, 2012).
+*    that there is a "misallocation of capital in our economy". Large companies spend lot of money to recruit and hire college graduates, yet given their lack of traditional credit history, "the graduate themselves couldn't raise $30,000 if their life depended on it" (Ha, 2012).
 
-![pic1](screen10.png) 
+![pic1](images/screen10.png) 
  (Upstart (about), 2021) 
  
 
@@ -14,7 +14,7 @@ Here is a common scenario for millennials. John Doe is 22 years old, and is atte
 Four in five Americans have never defaulted on a credit product, yet less than half have access to prime credit. 
 
 
-![pic2](screen21.png) 
+![pic2](images/screen21.png) 
 
 UPSTART was incorporated in 2012 - headquartered in San Mateo, California - by Dave girourd, Anna Counselman (an ex-google director and a manager respectively) and Paul Gu. 
 
@@ -45,7 +45,7 @@ These loans can be retained by the originating bank or sold to UPSTART's network
 
 UPSTART partners with 10 banks and generates around 98% of its revenue with fees paid by these banks. These charges are the combination of referral fees, platform fees, and loan servicing fees. Upstart partners with the following banks:
 
-![pic3](screen7.png)
+![pic3](images/screen7.png)
  (Upstart (about), 2021)
 
 Larger Tier-1 banks are not yet partnering with UPSTART as they are contemplating whether they should build their own AI powered platform - cost of the whole project is the bottleneck point, or partner with an existing Fintech company. 
@@ -54,10 +54,10 @@ Larger Tier-1 banks are not yet partnering with UPSTART as they are contemplatin
 
 UPSTART has recently started applying its AI methodology to major markets like Auto, Home, and Credit Cards. UPSTART originated 10.8 Billion loans and 71% of these loans were fully automated. 
 
-![pic4](screen3.png)
+![pic4](images/screen3.png)
  (Upstart (about), 2021)
 
-![pic0](screen13.png)
+![pic0](images/screen13.png)
  (Upstart (about), 2021)
 
 
@@ -65,43 +65,43 @@ UPSTART facilitates 27% more loan approvals compared to traditional large banks.
 
 
 
-![pic5](screen14.png)
+![pic5](images/screen14.png)
  (Upstart (about), 2021)
 
     
 Since UPSTART is basically an AI (machine learning) driven Financial Company, it leverages big stack of cutting edge technologies for its ambitious business model. For their multifaceted DevOPs, CI/CD, and RegTech operations, UPSTART uses following technologies: 
 Python, Java Scripts, Groovy, SQL, Bash, Kubernets, ECS, Jenkins, Looker, Tableau, Amazon AWS, Google Cloud (Big Query, SnowFlake, RedShift), Spark, Kafka, Airflow, Appache-Flink, Apache-Pinot, Apache-Hbase, Apache-Cassandra, AVRO, Postgres, Ansible, Docker, NoSQL, Hodoop, Terraform, Lambda, Casanova, and MongoDB.
 
-![pic7](screen15.png)
+![pic7](images/screen15.png)
  (Upstart (about), 2021)
 
 Upstart operates a cloud based AI Lending platform. Some of the UPSTART key competitors are SOFI, Lending Club, Float, Lending Home, Earnest, Loan Depot, Lexin Fintech, AMTD International, Blucora, and oportun Financial. In Q1 2021, UPSART revenue grew 90% Y/Y to $121.3 millions with net income of $10.1 millions up 620% from previous year. Contribution profit went up 117% to $55.8 millions. Operation expenses reached $105.8 millions up 66% from previous year. Following are the current UPSTART holdings, inc. financial statements (Upstart(about), 2021)
 
-![pic8](screen2.png)
+![pic8](images/screen2.png)
  (Upstart (about), 2021)
 
-![pic9](screen6.png)
+![pic9](images/screen6.png)
  (Upstart (about), 2021)
 
-![pic10](screen5.png)
+![pic10](images/screen5.png)
  (Upstart (about), 2021)
 
-![pic11](screen1.png)
+![pic11](images/screen1.png)
  (Upstart (about), 2021)
 
 Here is the forecast outlook for fiscal year 2021.
 
-![pic12](screen20.png)
+![pic12](images/screen20.png)
  (Upstart (about), 2021)
 
 *   Although pandemic has affected UPSTART'S business, but they have fared much better than their competitors. Unfortunately, inevitable rise in the interest rate will negatively influence UPSTART's growth as borrowing would become more expensive for consumers (Upstart(Nasdaq:UPST), 2021). 
 
 Upstart leverages and carefully tracks core business metrics like Transaction Volume to Loan Conversion Rate, and Transaction Volume to Dollar amounts. Here are some of the core metrics UPSTART uses:
 
-![pic13](screen4.png)
+![pic13](images/screen4.png)
  (Upstart (about), 2021)
 
-![pic6](screen19.png)
+![pic6](images/screen19.png)
  (Upstart (about), 2021)
 
 
@@ -109,7 +109,7 @@ Upstart leverages and carefully tracks core business metrics like Transaction Vo
 
 As of July 6, 2021. 11:37 AM, UPST stock is selling at 119.6000. Here is a historical (max) chart of UPST's stock performance:
 
-![pic14](screen8.png)
+![pic14](images/screen8.png)
  (Upstart Holdings, Inc.(yahoo), 2021)
 
 *   With December 2020 IPO, UPSTART's lockup period expired on early June 2021. Shares of the company owned by company insiders and major shareholders became eligible to be traded as a result of the expiration of the lockup period (Upstart Stock Forecast, 2021)
@@ -155,7 +155,7 @@ https://en.wikipedia.org/wiki/Upstart_(company)
 Upstart Holdings, Inc. (UPST) Outpaces Stock Market Gaines: What you should know. (2021, July 21). Yahoo Finance retrieved from
 https://finance.yahoo.com/news/upstart-holdings-inc-upst-outpaces-214509428.html
 
-Upstart (about). (2021). Upstart Holdings, Inc. retrieved July 26, 2021, from
+Upstart (about). (2021). Upstart Holdings, Inc. retrieved July 26, 2021. from
 https://www.upstart.com/about#
 
 
