@@ -54,7 +54,7 @@ Larger Tier-1 banks are not yet partnering with UPSTART as they are contemplatin
 
 UPSTART has recently started applying its AI methodology to major markets like Auto, Home, and Credit Cards. UPSTART originated 10.8 Billion loans and 71% of these loans were fully automated. 
 
-![pic4](https://github.com/yasbhatti1/hw_1/blob/db55f4391a1b8ffa5e8ac94462e1d483a4801b6b/images/Screen3.jpg)
+![pic4](https://github.com/yasbhatti1/hw_1/blob/ed103358cf58f2c95f21fc6c249d628e8cbc522d/images/Screen3.png)
  (Upstart (about), 2021)
 
 ![pic0](images/screen13.png)
